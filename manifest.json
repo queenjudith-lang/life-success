@@ -1,0 +1,16 @@
+{
+  "name": "Life RPG — Skill Mastery & Life Optimization",
+  "short_name": "Life RPG",
+  "description": "Level up your life — behavioral change, skill mastery and personal transformation",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#060610",
+  "theme_color": "#00d4aa",
+  "icons": [
+    {"src": "icon-192.png","sizes": "192x192","type": "image/png","purpose": "any maskable"},
+    {"src": "icon-512.png","sizes": "512x512","type": "image/png","purpose": "any maskable"}
+  ],
+  "categories": ["health","fitness","education","productivity","lifestyle"],
+  "prefer_related_applications": false
+}
